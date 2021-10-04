@@ -24,3 +24,5 @@ do
 
 
           echo "totalHrs is $totalHrs"
+fi
+done
